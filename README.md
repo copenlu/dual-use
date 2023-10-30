@@ -1,7 +1,7 @@
 # dual-use
 Resources for the EMNLP 2023 paper "Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing"
 
-Our Dual Use Checklist
+## Our Dual Use Checklist
 
 **Dual use of scientific artefacts**
 
